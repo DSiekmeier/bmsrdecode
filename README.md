@@ -1,8 +1,8 @@
 # bmsrdecode
 
 ## AUTHOR
-Dennis Siekmeier
-contact@dsiekmeier.de
+Dennis Siekmeier  
+contact@dsiekmeier.de  
 Visit me on www.dsiekmeier.de
 
 ## DESCRIPTION
