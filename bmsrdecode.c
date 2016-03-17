@@ -32,7 +32,7 @@ int main( int argc, char* argv[] ) {
     uint16_t convRegValue = strtoul( regValue, NULL, 16 );
 
     for( uint8_t bit=0U; bit<REGISTER_WIDTH; ++bit ) {
-        printf( "Bit %2d \t --> %s %s\n", bit,
+        printf( "Bit %2u \t --> %s %s\n", bit,
             bmsrNames[bit],
             (convRegValue & 1U) ? "ENABLED" : "disabled" );
         convRegValue >>= 1U;
@@ -40,3 +40,4 @@ int main( int argc, char* argv[] ) {
 
     return EXIT_SUCCESS;
 }
+
