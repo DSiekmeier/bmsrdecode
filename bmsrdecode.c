@@ -3,8 +3,8 @@
  * \brief   Decoding PHY status register as described in IEEE 802.3
  *
  * \author  Dennis Siekmeier (contact@dsiekmeier.de)
- * \version 1.0
- * \date    02/03/2016
+ * \version 1.1
+ * \date    18/03/2016
  *
  * \copyright This project is released under The MIT License (MIT).
  */
