@@ -1,6 +1,9 @@
 /**
  *  \file   bmsrdecode.h
  *  \brief  Cleartext description of register bits.
+ *
+ *  \author Dennis Siekmeier (contact@dsiekmeier.de)
+ *  \date   19/07/2016
  */
 
 #ifndef _BMSRDECODE_BC9CA7B2F58C
