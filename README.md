@@ -13,5 +13,10 @@ IEEE 802.3 Chapter 22.2.4.
 The source uses some of the C99 features so you can compile it with gcc using
 the std=c99 option.
 
+## USAGE
+Pass the register value as the first (and only) parameter. E.g.:
+./bmsrdecode 0x3d13
+under UNIX like systems
+
 ## LICENCE
 This project is released under The MIT License (MIT).
