@@ -18,7 +18,7 @@ the std=c99 option.
 ## USAGE
 Pass the register value as the first (and only) parameter. E.g.:
 
-./bmsrdecode 0x3d13
+    ./bmsrdecode 0x3d13
 
 under UNIX like systems
 
