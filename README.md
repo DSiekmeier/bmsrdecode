@@ -1,4 +1,4 @@
-# bmsrdecode [![Build Status](https://travis-ci.org/DSiekmeier/bmsrdecode.svg?branch=master)](https://travis-ci.org/DSiekmeier/bmsrdecode)
+# bmsrdecode
 
 ## AUTHOR
 Dennis Siekmeier (contact@dsiekmeier.de)  
